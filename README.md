@@ -10,6 +10,7 @@ A list of community-built React Native contributions
 - https://github.com/dzannotti/react-thesidebar
 - https://github.com/Kureev/react-native-navbar
 - https://github.com/jsdf/react-native-refreshable-listview
+- https://github.com/brentvatne/react-native-linear-gradient
 
 ## Apps
 
