@@ -7,6 +7,7 @@ A list of community-built React Native contributions
 - https://github.com/corymsmith/react-native-icons
 - https://github.com/gcanti/tcomb-form-native
 - https://github.com/brentvatne/react-native-login
+- https://github.com/dzannotti/react-thesidebar
 
 ## Apps
 
