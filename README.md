@@ -11,6 +11,7 @@ A list of community-built React Native contributions
 - https://github.com/Kureev/react-native-navbar
 - https://github.com/jsdf/react-native-refreshable-listview
 - https://github.com/brentvatne/react-native-linear-gradient
+- UISegmentedControl: http://qiita.com/laiso/items/5c5ef9158a37726d109d
 
 ## Apps
 
