@@ -14,6 +14,7 @@ A list of community-built React Native contributions
 - UISegmentedControl: http://qiita.com/laiso/items/5c5ef9158a37726d109d
 - Camera: https://github.com/lwansbrough/react-native-camera
 - https://github.com/nick/react-native-carousel
+- [FBLogin (react-native-facebook-login)](https://github.com/magus/react-native-facebook-login)
 
 ## Apps
 
