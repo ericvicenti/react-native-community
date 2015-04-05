@@ -17,6 +17,10 @@ A list of community-built React Native contributions
 - Carousel: https://github.com/nick/react-native-carousel
 - Modal: https://github.com/brentvatne/react-native-modal
 
+## Libraries
+
+- https://github.com/almost/react-native-sqlite
+
 ## Apps
 
 - https://github.com/iSimar/HackerNews-React-Native
