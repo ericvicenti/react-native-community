@@ -3,23 +3,49 @@ A list of community-built React Native contributions
 
 ## Components
 
-- Video: https://github.com/brentvatne/react-native-video
-- https://github.com/corymsmith/react-native-icons
-- https://github.com/gcanti/tcomb-form-native
-- FacebookLoginManager: https://github.com/brentvatne/react-native-login
-- https://github.com/dzannotti/react-thesidebar
-- https://github.com/Kureev/react-native-navbar
-- https://github.com/jsdf/react-native-refreshable-listview
-- LinearGradient: https://github.com/brentvatne/react-native-linear-gradient
-- UISegmentedControl: http://qiita.com/laiso/items/5c5ef9158a37726d109d
+### Audio / Visual
+
 - Camera: https://github.com/lwansbrough/react-native-camera
-- [FBLogin (react-native-facebook-login)](https://github.com/magus/react-native-facebook-login)
+- Video: https://github.com/brentvatne/react-native-video
+
+### Controls / Forms 
+
+- Form handling: https://github.com/gcanti/tcomb-form-native
+- UISegmentedControl: http://qiita.com/laiso/items/5c5ef9158a37726d109d
+
+### Graphics
+
+- Icons: https://github.com/corymsmith/react-native-icons
+- LinearGradient: https://github.com/brentvatne/react-native-linear-gradient
+
+### Lists
+
+- Refreshable ListView: https://github.com/jsdf/react-native-refreshable-listview
+
+### Navigation
+
+- Navbar: https://github.com/Kureev/react-native-navbar
+- Sidebar: https://github.com/dzannotti/react-thesidebar
+
+### Text / Markup
+
+- Markdown: https://github.com/lwansbrough/react-native-markdown
+
+### Login integrations
+
+- Facebook Login: https://github.com/brentvatne/react-native-login
+- Facebook Login (2): https://github.com/magus/react-native-facebook-login
+
+### Miscellaneous
+
 - Carousel: https://github.com/nick/react-native-carousel
 - Modal: https://github.com/brentvatne/react-native-modal
 
 ## Libraries
 
-- https://github.com/almost/react-native-sqlite
+### Databases
+
+- SQLite: https://github.com/almost/react-native-sqlite
 
 ## Apps
 
