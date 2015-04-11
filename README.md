@@ -15,6 +15,7 @@ A list of community-built React Native contributions
 
 ### Graphics
 
+- BlurView: https://github.com/Kureev/react-native-blur
 - Icons: https://github.com/corymsmith/react-native-icons
 - LinearGradient: https://github.com/brentvatne/react-native-linear-gradient
 
