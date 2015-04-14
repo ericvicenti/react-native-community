@@ -43,6 +43,7 @@ A list of community-built React Native contributions
 - Carousel: https://github.com/nick/react-native-carousel
 - Modal: https://github.com/brentvatne/react-native-modal
 - Generic Overlay: https://github.com/brentvatne/react-native-overlay
+- Keyboard Events: https://github.com/johanneslumpe/react-native-keyboardevents
 
 ## Libraries
 
