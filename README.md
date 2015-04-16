@@ -13,6 +13,7 @@ A list of community-built React Native contributions
 
 - Form handling: https://github.com/gcanti/tcomb-form-native
 - UISegmentedControl: http://qiita.com/laiso/items/5c5ef9158a37726d109d
+- CalendarPicker: https://github.com/stephy/CalendarPicker
 
 ### Graphics
 
@@ -46,7 +47,7 @@ A list of community-built React Native contributions
 - Carousel: https://github.com/nick/react-native-carousel
 - Modal: https://github.com/brentvatne/react-native-modal
 - Generic Overlay: https://github.com/brentvatne/react-native-overlay
-- CalendarPicker: https://github.com/stephy/CalendarPicker
+- Keyboard Events: https://github.com/johanneslumpe/react-native-keyboardevents
 
 ## Libraries
 
