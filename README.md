@@ -7,6 +7,7 @@ A list of community-built React Native contributions
 
 - Camera: https://github.com/lwansbrough/react-native-camera
 - Video: https://github.com/brentvatne/react-native-video
+- Audio Recording: https://github.com/jsierles/react-native-audiorecorder
 
 ### Controls / Forms 
 
