@@ -48,6 +48,7 @@ A list of community-built React Native contributions
 - Modal: https://github.com/brentvatne/react-native-modal
 - Generic Overlay: https://github.com/brentvatne/react-native-overlay
 - Keyboard Events: https://github.com/johanneslumpe/react-native-keyboardevents
+- MotionManager (Accelerometer / Gyroscope / Magnetomer): https://github.com/pwmckenna/react-native-motion-manager
 
 ## Libraries
 
