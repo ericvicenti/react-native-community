@@ -27,7 +27,8 @@ A list of community-built React Native contributions
 
 - Navbar: https://github.com/Kureev/react-native-navbar
 - Sidebar: https://github.com/dzannotti/react-thesidebar
-- Side menu: https://github.com/Kureev/react-native-side-menu.git 
+- Side menu: https://github.com/Kureev/react-native-side-menu.git
+- Router: https://github.com/t4t5/react-native-router
 
 ### Text / Markup
 
