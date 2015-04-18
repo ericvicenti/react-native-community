@@ -25,6 +25,7 @@ A list of community-built React Native contributions
 ### Lists
 
 - Refreshable ListView: https://github.com/jsdf/react-native-refreshable-listview
+- Selectable Sections Listview: https://github.com/johanneslumpe/react-native-selectablesectionlistview
 
 ### Navigation
 
