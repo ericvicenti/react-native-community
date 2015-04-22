@@ -58,6 +58,10 @@ A list of community-built React Native contributions
 
 - SQLite: https://github.com/almost/react-native-sqlite
 
+### Location-based services
+
+- iBeacon: https://github.com/geniuxconsulting/react-native-ibeacon
+
 ## Apps
 
 - https://github.com/iSimar/HackerNews-React-Native
