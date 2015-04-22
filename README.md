@@ -45,6 +45,7 @@ A list of community-built React Native contributions
 
 ### Miscellaneous
 
+- A/B Testing: https://github.com/lwansbrough/react-native-ab
 - Carousel: https://github.com/nick/react-native-carousel
 - Modal: https://github.com/brentvatne/react-native-modal
 - Generic Overlay: https://github.com/brentvatne/react-native-overlay
