@@ -43,9 +43,13 @@ A list of community-built React Native contributions
 - Facebook Login: https://github.com/brentvatne/react-native-login
 - Facebook Login (2): https://github.com/magus/react-native-facebook-login
 
-### Miscellaneous
+### Metrics
 
 - A/B Testing: https://github.com/lwansbrough/react-native-ab
+- Google Analytics: https://github.com/lwansbrough/react-native-google-analytics
+
+### Miscellaneous
+
 - Carousel: https://github.com/nick/react-native-carousel
 - Modal: https://github.com/brentvatne/react-native-modal
 - Generic Overlay: https://github.com/brentvatne/react-native-overlay
