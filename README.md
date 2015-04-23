@@ -1,5 +1,5 @@
 # React Native in the Community
-A list of community-built React Native contributions
+A list of community-built React Native contributions. You can subscribe to updates on the highlights of the changes to this repo week-by-week, along with other news from the community in the [react-native-newsletter](https://github.com/brentvatne/react-native-newsletter).
 
 ## Components
 
