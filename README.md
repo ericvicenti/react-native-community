@@ -72,6 +72,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 
 - https://github.com/iSimar/HackerNews-React-Native
 - https://github.com/bradoyler/newswatch-react-native
+- https://github.com/mikkoj/NortalTechDay
 
 ## Internationalization
 
