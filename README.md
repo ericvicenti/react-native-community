@@ -51,6 +51,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 ### Miscellaneous
 
 - Carousel: https://github.com/nick/react-native-carousel
+- Swiper (like Carousel): https://github.com/leecade/react-native-swiper
 - Modal: https://github.com/brentvatne/react-native-modal
 - Generic Overlay: https://github.com/brentvatne/react-native-overlay
 - Keyboard Events: https://github.com/johanneslumpe/react-native-keyboardevents
