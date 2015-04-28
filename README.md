@@ -37,6 +37,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 ### Text / Markup
 
 - Markdown: https://github.com/lwansbrough/react-native-markdown
+- HTML: https://github.com/turingou/react-native-html
 
 ### Login integrations
 
