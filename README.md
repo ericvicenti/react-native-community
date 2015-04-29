@@ -9,7 +9,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 - Video: https://github.com/brentvatne/react-native-video
 - Audio Recording: https://github.com/jsierles/react-native-audiorecorder
 
-### Controls / Forms 
+### Controls / Forms
 
 - Form handling: https://github.com/gcanti/tcomb-form-native
 - UISegmentedControl: http://qiita.com/laiso/items/5c5ef9158a37726d109d
@@ -75,6 +75,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 - https://github.com/iSimar/HackerNews-React-Native
 - https://github.com/bradoyler/newswatch-react-native
 - https://github.com/mikkoj/NortalTechDay
+- https://github.com/cabaret/confreaks-react-native
 
 ## Internationalization
 
