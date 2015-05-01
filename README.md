@@ -77,6 +77,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 - https://github.com/mikkoj/NortalTechDay
 - https://github.com/cabaret/confreaks-react-native
 - https://github.com/brentvatne/codecore-events-app
+- https://github.com/jsierles/RNPlayNative - "iOS app for downloading and running React Native apps from rnplay.org."
 
 ## Internationalization
 
