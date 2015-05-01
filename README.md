@@ -76,6 +76,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 - https://github.com/bradoyler/newswatch-react-native
 - https://github.com/mikkoj/NortalTechDay
 - https://github.com/cabaret/confreaks-react-native
+- https://github.com/brentvatne/codecore-events-app
 
 ## Internationalization
 
