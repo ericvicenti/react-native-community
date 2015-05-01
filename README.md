@@ -59,6 +59,7 @@ A list of community-built React Native contributions. You can subscribe to updat
 - MotionManager (Accelerometer / Gyroscope / Magnetomer): https://github.com/pwmckenna/react-native-motion-manager
 - jsdom compatible with JavaScriptCore - https://github.com/brentvatne/jsdom-jscore
 - Progress Bar: https://github.com/lwansbrough/react-native-progress-bar
+- Social Share: https://github.com/doefler/react-native-social-share
 
 ## Libraries
 
