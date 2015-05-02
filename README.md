@@ -73,12 +73,13 @@ A list of community-built React Native contributions. You can subscribe to updat
 
 ## Apps
 
-- https://github.com/iSimar/HackerNews-React-Native
-- https://github.com/bradoyler/newswatch-react-native
-- https://github.com/mikkoj/NortalTechDay
-- https://github.com/cabaret/confreaks-react-native
-- https://github.com/brentvatne/codecore-events-app
-- https://github.com/jsierles/RNPlayNative - "iOS app for downloading and running React Native apps from rnplay.org."
+- [HackerNews (Unofficial)](https://github.com/iSimar/HackerNews-React-Native)
+- [Newswatch](https://github.com/bradoyler/newswatch-react-native)
+- [Nortal Tech Day](https://github.com/mikkoj/NortalTechDay)
+- [Confreaks (Unofficial)](https://github.com/cabaret/confreaks-react-native)
+- [CodeCore Events](https://github.com/brentvatne/codecore-events-app)
+- [RNPlayNative](https://github.com/jsierles/RNPlayNative) - "iOS app for downloading and running React Native apps from rnplay.org."
+- [Den](https://github.com/asamiller/den) - [Blog post here](https://medium.com/@realasa/my-adventures-with-react-native-36c354249109)
 
 ## Internationalization
 
