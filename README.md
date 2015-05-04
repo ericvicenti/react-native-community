@@ -1,7 +1,12 @@
 # React Native in the Community
+
 A list of community-built React Native contributions. You can subscribe to updates on the highlights of the changes to this repo week-by-week, along with other news from the community in the [react-native-newsletter](https://github.com/brentvatne/react-native-newsletter).
 
+For a searchable list of npm-registered components, please see [react.parts](http://react.parts/native-ios)
+
 ## Components
+
+> WARNING: This list is deprecated. The definitive list can be found at [react.parts](http://react.parts/native-ios)
 
 ### Audio / Visual
 
