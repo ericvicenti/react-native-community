@@ -85,6 +85,7 @@ For a searchable list of npm-registered components, please see [react.parts](htt
 - [CodeCore Events](https://github.com/brentvatne/codecore-events-app)
 - [RNPlayNative](https://github.com/jsierles/RNPlayNative) - "iOS app for downloading and running React Native apps from rnplay.org."
 - [Den](https://github.com/asamiller/den) - [Blog post here](https://medium.com/@realasa/my-adventures-with-react-native-36c354249109)
+- [Real Polish](https://github.com/martinmoizard/realpolish)
 
 ## Internationalization
 
