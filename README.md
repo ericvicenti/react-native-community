@@ -34,6 +34,7 @@ A list of community-built React Native contributions.
 - [Going Native with React, an Introduction](http://ryanclark.me/going-native-with-react/)
 - [Rapid iOS Prototyping with React Native at Codecademy](https://medium.com/about-codecademy/rapid-ios-prototyping-with-react-native-at-codecademy-c4f0a567ee57)
 - [React Native Tutorial: Building Apps with JavaScript](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
+- [Packaging a React Native component](http://brentvatne.ca/packaging-react-native-component/)
 
 ## Talks
 
