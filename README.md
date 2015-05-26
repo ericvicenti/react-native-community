@@ -5,7 +5,7 @@ A list of community-built React Native contributions.
 - For a searchable list of npm-registered components, please see [react.parts](http://react.parts/native-ios).
 - You can subscribe to weekly updates from around the community in the [react-native-newsletter](https://github.com/brentvatne/react-native-newsletter).
 - A discussion forum is available at [discuss.reactjs.org](https://discuss.reactjs.org/)
-- We are on IRC on Freenode in #reactnative - you can alternatively join
+- IRC on Freenode in #reactnative - you can alternatively join
   the channel via [Reactiflux on Slack](http://www.reactiflux.com/), #react-native
 - [Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
 
