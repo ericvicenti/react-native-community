@@ -21,6 +21,7 @@ A list of community-built React Native contributions.
 - [Real Polish](https://github.com/martinmoizard/realpolish)
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
+- [Ruby China](https://github.com/henter/ReactNativeRubyChina)
 
 ## Tools
 
