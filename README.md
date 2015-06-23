@@ -8,6 +8,12 @@ A list of community-built React Native contributions.
 - IRC on Freenode in #reactnative - or join the channel via [Reactiflux on Slack](http://www.reactiflux.com/), #react-native
 - [Official documentation](https://facebook.github.io/react-native/docs/getting-started.html)
 
+## On the App Store
+
+- [React Native Playground](http://apple.co/1de3wBb) - iOS app for downloading and running React Native apps from rnplay.org [source](https://github.com/jsierles/RNPlayNative)
+- [ReactTo36](https://itunes.apple.com/us/app/reactto36/id989009293?mt=8)
+- [HSK Level 1 Chinese Flashcards](https://itunes.apple.com/us/app/hsk-level-1-chinese-flashcards/id936639994)
+
 ## Apps
 
 - [Dribble](https://github.com/catalinmiron/react-native-dribbble-app)
@@ -16,7 +22,6 @@ A list of community-built React Native contributions.
 - [Nortal Tech Day](https://github.com/mikkoj/NortalTechDay)
 - [Confreaks (Unofficial)](https://github.com/cabaret/confreaks-react-native)
 - [CodeCore Events](https://github.com/brentvatne/codecore-events-app)
-- [RNPlayNative](https://github.com/jsierles/RNPlayNative) - iOS app for downloading and running React Native apps from rnplay.org
 - [Den](https://github.com/asamiller/den) - [Blog post here](https://medium.com/@realasa/my-adventures-with-react-native-36c354249109)
 - [Real Polish](https://github.com/martinmoizard/realpolish)
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
