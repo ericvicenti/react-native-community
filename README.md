@@ -29,6 +29,7 @@ A list of community-built React Native contributions.
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [Ruby China](https://github.com/henter/ReactNativeRubyChina)
 - [Alt/Flux Demo](https://github.com/mrblueblue/react-native-alt-demo)
+- [Flux/Webpack Electric Cloud app](https://github.com/artyomtrityak/ec-deploy-mobile)
 
 ## Tools
 
