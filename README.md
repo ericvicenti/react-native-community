@@ -14,6 +14,8 @@ A list of community-built React Native contributions.
 - [ReactTo36](https://itunes.apple.com/us/app/reactto36/id989009293?mt=8)
 - [HSK Level 1 Chinese Flashcards](https://itunes.apple.com/us/app/hsk-level-1-chinese-flashcards/id936639994)
 - [youmeyou](https://appsto.re/us/TxnM4.i)
+- [Lrn](https://itunes.apple.com/us/app/lrn-learn-to-code-at-your/id1019622677?mt=8)
+- [MinTrain](https://itunes.apple.com/us/app/mintrain/id1015739031?mt=8)
 
 ## Apps
 
