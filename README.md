@@ -38,6 +38,7 @@ A list of community-built React Native contributions.
 - [React Native Playground](https://rnplay.org) - CodePen for React Native
 - [Exponent](http://exp.host/) - "Write React Native experiences with any computer and a text editor and a phone. No need for Xcode or a simulator."
 - [Driving React Native with Om (ClojureScript)](https://github.com/omcljs/ambly/wiki/Driving-React-Native-with-Om)
+- [AppHub](https://apphub.io) - Update React Native apps without re-submitting the App Store.
 
 ## Articles
 
