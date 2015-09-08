@@ -32,6 +32,7 @@ A list of community-built React Native contributions.
 - [Ruby China](https://github.com/henter/ReactNativeRubyChina)
 - [Alt/Flux Demo](https://github.com/mrblueblue/react-native-alt-demo)
 - [Flux/Webpack Electric Cloud app](https://github.com/artyomtrityak/ec-deploy-mobile)
+- [Embedded (hybrid) App Examples](https://github.com/dsibiski/react-native-embedded-app-example) - A collection of examples for using React Native in an existing iOS application
 
 ## Tools
 
